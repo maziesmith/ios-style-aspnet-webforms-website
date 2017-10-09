@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iosStyleWebSite", "icloudreset2\iosStyleWebSite.csproj", "{F9A1AD09-8156-481F-9A2A-AD98563975BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iosStyleWebSite", "iosStyleWebSite\iosStyleWebSite.csproj", "{F9A1AD09-8156-481F-9A2A-AD98563975BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
