@@ -1,0 +1,46 @@
+.main-nav {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  font-size: 0;
+}
+
+.main-nav-list {
+  display: inline-block;
+  padding: 0;
+  list-style: none;
+}
+
+.main-nav-list li {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  min-width: 100px;
+  min-height: 100px;
+  margin-left: 15px;
+}
+
+./*main-nav-list li.habitats { background-color: #9ae900; }
+
+.main-nav-list li.animals { background-color: #00cb79; }
+
+.main-nav-list li.materials { background-color: #ffd600; }
+
+.main-nav-list li.earth { background-color: #ffa200; }
+
+.main-nav-list li.forces { background-color: #ff2200; }
+
+.main-nav-list li.evolution { background-color: #a8218e; }
+
+.main-nav-list li.light { background-color: #00a7ef; }
+
+.main-nav-list li.electricity { background-color: #00989a; }*/
+
+.main-nav-list li img {
+  display: inline-block;
+  cursor: pointer;
+  margin: 0;
+  padding: 0;
+}
